@@ -1,0 +1,4 @@
+mov R4,-35
+swap R35,0220
+mov R4,0220
+swap R3,R4
